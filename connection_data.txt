@@ -1,0 +1,8 @@
+# first line is connection string
+# second line is table name
+# third line is login column name
+# fourth line is password column name
+user=server host=localhost port=27018 password=application dbname=users_data
+login_pass
+login
+password

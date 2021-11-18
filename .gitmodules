@@ -1,0 +1,3 @@
+[submodule "server/postgrespp"]
+	path = server/postgrespp
+	url = https://github.com/tghosgor/postgrespp.git
